@@ -11,3 +11,5 @@ I
 tests/data-access.test.ts,e/a/ea381dadb53f4a903cfb59313297b526f3dd0a8e
 D
 contracts/price.clar,4/6/469de629763c9caa4a3afe697988d9d9c976fc75
+I
+contracts/compliance.clar,e/f/ef2d9bb3aeb216b5716369e80f576a9d2c5cb2e0
